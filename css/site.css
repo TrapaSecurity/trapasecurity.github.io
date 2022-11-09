@@ -163,7 +163,7 @@ a:hover,a:focus {
 	max-width: 100%;
 	height: auto;
 	margin: 0 auto;
-	border: 1px solid #fff
+/*	border: 1px solid #fff*/
 }
 
 footer {
@@ -324,3 +324,10 @@ body {
 	margin-bottom: 35px;
 }
 
+.platform {
+  background-color: #2e2e2e;
+}
+
+.platform img {
+  width: 100%;
+}
