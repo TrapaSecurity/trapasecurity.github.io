@@ -162,8 +162,6 @@ a:hover,a:focus {
 	display: block;
 	max-width: 100%;
 	height: auto;
-	margin: 0 auto;
-/*	border: 1px solid #fff*/
 }
 
 footer {
@@ -261,10 +259,6 @@ body {
 	text-align: center;
 }
 
-.avatar {
-	margin-bottom: 25px!important;
-}
-
 .member-info {
 	margin-bottom: 50px;
 }
@@ -324,10 +318,6 @@ body {
 	margin-bottom: 35px;
 }
 
-.platform {
-  background-color: #2e2e2e;
-}
-
-.platform img {
-  width: 100%;
+.tcr-img {
+	margin-bottom: 35px;
 }
